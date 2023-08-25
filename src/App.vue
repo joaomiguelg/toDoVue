@@ -8,18 +8,7 @@ const state = reactive({
     filtro: 'todas',
     tarefaTemp: '',
     tarefas: [
-      {
-        titulo: 'Estudar Es6',
-        finalizada: false,
-      },
-      {
-        titulo: 'Estudar SASS',
-        finalizada: false,
-      },
-      {
-        titulo: 'Ir para a academia',
-        finalizada: true,
-      }
+     
     ]
 })
 
